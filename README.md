@@ -24,7 +24,7 @@ Project focuses on the facebook text data to classify user sentiment into Positi
 
 
 **Learning**
--Learned Text Preprocessing and cleaning technique.
--Improved feature extraction using TF-IDF.
--Built understanding in NLP workflows and sentiment analysis.
--Understood impact of features in model evaluation.
+- Learned Text Preprocessing and cleaning technique.
+- Improved feature extraction using TF-IDF.
+- Built understanding in NLP workflows and sentiment analysis.
+- Understood impact of features in model evaluation.
